@@ -3,3 +3,15 @@ body {
   background-color: rgb(244, 234, 255);
   font-family: "Roboto", sans-serif;
 }
+header {
+  text-align: center;
+  padding: 32px;
+}
+h1 {
+  font-size: 52px;
+  color: rgb(88, 49, 196);
+  margin: 32px 0;
+}
+header img {
+  width: 300px;
+}
