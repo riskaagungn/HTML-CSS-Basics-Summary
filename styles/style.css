@@ -37,3 +37,14 @@ li {
   color: rgb(255, 237, 177);
   border-color: rgb(247, 209, 85);
 }
+a {
+  text-decoration: none;
+  color: rgb(36, 3, 102);
+  background-color: rgb(255, 237, 177);
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+a:hover,
+a:active {
+  background-color: rgb(250, 201, 39);
+}
